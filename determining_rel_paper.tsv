@@ -1,0 +1,11 @@
+u34	snail
+snail	u34
+snail	u200
+snail	zeb
+snail	snail
+u200	u200
+u200	zeb
+zeb	zeb
+zeb	u200
+zeb	u34
+input	snail
